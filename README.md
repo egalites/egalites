@@ -1,0 +1,4 @@
+egalites
+========
+
+Plural of equality. 
