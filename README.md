@@ -1,4 +1,4 @@
-egalites
+égalités
 ========
 
-Plural of equality. 
+Plurality of equality.
