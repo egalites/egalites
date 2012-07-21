@@ -1,4 +1,4 @@
 égalités
 ========
 
-Plurality of equality.
+Plurality of equality. Equality of plurality.
